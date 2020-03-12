@@ -1,0 +1,26 @@
+.intro {
+        font-family: "Times New Roman", Times, serif;
+}
+
+body {
+    background-color: red;
+  }
+
+#close {
+    font-style: italic;
+  }
+
+body {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+p {
+    margin-right: 1px;
+    margin-left: 1px;
+  }
+
+
+  
